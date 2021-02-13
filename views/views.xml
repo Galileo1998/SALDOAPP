@@ -145,7 +145,7 @@
             </search>
         </field>
     </record>
-    <!-- Acciones de ventana -->
+    <!-- Acciones de ventana, Galileo Garcia -->
 
     <record id="action_view_movimiento_ingresos" model="ir.actions.act_window">
         <field name="name">Ingresos</field>
